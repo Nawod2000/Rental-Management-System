@@ -38,5 +38,9 @@ public class CustomerController {
         return "Delete";
     }
 
+    @PostMapping("/update-customer")
+    public void updateCustomer(@RequestBody Customer customer){
+        service.updateCustomer(customer);
+    }
 
 }

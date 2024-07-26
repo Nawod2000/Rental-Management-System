@@ -48,4 +48,11 @@ public class CustomerServiceImpl implements CustomerService {
             repository.deleteById(id);
         }
     }
+
+    @Override
+    public void updateCustomer(Customer customer) {
+        if (repository.findById(customer.getCustId()).isPresent()){
+            repository.save(new ObjectMapper().convertValue(customer, CustomerEntity.class));
+        }
+    }
 }
