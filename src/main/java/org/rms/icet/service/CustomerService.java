@@ -11,4 +11,7 @@ public interface CustomerService {
     List<CustomerEntity> getAll();
 
     Customer findById(Long id);
+
+
+    void deleteEmployeeById(Long id);
 }

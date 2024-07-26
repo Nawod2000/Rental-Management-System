@@ -4,6 +4,7 @@ import lombok.RequiredArgsConstructor;
 import org.rms.icet.dto.Customer;
 import org.rms.icet.entity.CustomerEntity;
 import org.rms.icet.service.impl.CustomerServiceImpl;
+import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -16,7 +17,7 @@ public class CustomerController {
 
     final CustomerServiceImpl service;
     @PostMapping("/add-customer")
-    public Customer AddCustomer(@RequestBody Customer customer){
+    Customer AddCustomer(@RequestBody Customer customer){
         return service.AddCustomer(customer);
     }
 
@@ -29,4 +30,13 @@ public class CustomerController {
     Customer findById(@PathVariable Long id){
         return service.findById(id);
     }
+
+    @DeleteMapping("/delete-customer/{id}")
+    @ResponseStatus(HttpStatus.ACCEPTED)
+    String deleteEmployee(@PathVariable Long id){
+        service.deleteEmployeeById(id);
+        return "Delete";
+    }
+
+
 }
