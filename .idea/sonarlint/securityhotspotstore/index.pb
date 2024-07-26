@@ -12,3 +12,23 @@ Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+m
+=src/main/java/org/rms/icet/controller/CustomerController.java,e\4\e4c71f76823880b0e485fb8ecd74aefe9324603f
+\
+,src/main/java/org/rms/icet/dto/Customer.java,8\9\8983f777dcf291a2d97b0b6afd965cb9edbb122c
+w
+G.idea/sonarlint/issuestore/2/c/2cabb939da04d3de3a200bf2b575690e1a16316d,1\0\10f2119b18de4c2d93011c2acd27301df22c2983
+Å
+Q.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,3\0\30205a209c6ce77c4cfc19a09e6f57c588b7fb88
+Å
+Q.idea/sonarlint/securityhotspotstore/3/1/314573271d4733c73f3a5a296e7d33ed50af2b34,1\d\1d6d82d1c491b726fb631d85a0a5de07fe09e473
+w
+G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e\d\ed67eb178d523a4b3f117dcbe0eda5196367ceec
+Å
+Q.idea/sonarlint/securityhotspotstore/8/6/863e0292fd7e9b3e74dafd6cc01f73ba76346482,0\c\0c4799549ebca80c86406fd218445fef27b61acc
+w
+G.idea/sonarlint/issuestore/3/1/314573271d4733c73f3a5a296e7d33ed50af2b34,2\0\20e212727bb69c0f125626ac1f5d49896182d737
+Å
+Q.idea/sonarlint/securityhotspotstore/2/c/2cabb939da04d3de3a200bf2b575690e1a16316d,f\6\f6d8310b47b1802ff534ff6900f24d2d3b76c4f1
+w
+G.idea/sonarlint/issuestore/8/6/863e0292fd7e9b3e74dafd6cc01f73ba76346482,3\0\30f9777ea696a18aa49d3e9967e93a4276065227
