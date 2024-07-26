@@ -32,3 +32,11 @@ G.idea/sonarlint/issuestore/3/1/314573271d4733c73f3a5a296e7d33ed50af2b34,2\0\20
 Q.idea/sonarlint/securityhotspotstore/2/c/2cabb939da04d3de3a200bf2b575690e1a16316d,f\6\f6d8310b47b1802ff534ff6900f24d2d3b76c4f1
 w
 G.idea/sonarlint/issuestore/8/6/863e0292fd7e9b3e74dafd6cc01f73ba76346482,3\0\30f9777ea696a18aa49d3e9967e93a4276065227
+m
+=src/main/java/org/rms/icet/ripository/CustomerRepository.java,5\c\5c8ec2aca3d278790db3af2f15e44f367c00132a
+e
+5src/main/java/org/rms/icet/entity/CustomerEntity.java,6\9\6996291de87c9c8708d2ed93630eedbebf244c46
+g
+7src/main/java/org/rms/icet/service/CustomerService.java,4\d\4da514fa72e324475e1f82e0490a911e141d9541
+p
+@src/main/java/org/rms/icet/service/impl/CustomerServiceImpl.java,8\9\89c98ccf66c169b65db2b8d258e7b347c1c96bbf
