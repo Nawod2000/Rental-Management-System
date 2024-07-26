@@ -1,4 +1,4 @@
-package org.rms.icet.ripository;
+package org.rms.icet.repository;
 
 import org.rms.icet.entity.CustomerEntity;
 import org.springframework.data.jpa.repository.JpaRepository;

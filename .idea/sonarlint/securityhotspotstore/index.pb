@@ -40,3 +40,5 @@ g
 7src/main/java/org/rms/icet/service/CustomerService.java,4\d\4da514fa72e324475e1f82e0490a911e141d9541
 p
 @src/main/java/org/rms/icet/service/impl/CustomerServiceImpl.java,8\9\89c98ccf66c169b65db2b8d258e7b347c1c96bbf
+m
+=src/main/java/org/rms/icet/repository/CustomerRepository.java,c\3\c340724ee14a200df69c0bbc26177caeb7c206d0
